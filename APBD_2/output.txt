@@ -1,0 +1,4 @@
+Device [ID: 1, Name: Apple Watch SE2, Is Turned On: True], Battery: 17
+Device [ID: 1, Name: LinuxPC, Is Turned On: False], OS: Linux Mint
+Device [ID: 2, Name: ThinkPad T440, Is Turned On: False], OS: Not Installed
+Device [ID: 1, Name: Pi3, Is Turned On: False], IP: 192.168.1.44, Network: MD Ltd.Wifi-1
